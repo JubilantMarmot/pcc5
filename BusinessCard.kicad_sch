@@ -1,0 +1,136 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c52e2ab9-f991-4723-84f3-4c3609519739")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 13.97 29.21)
+		(size 19.05 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "67ae2427-e6d2-46a9-bbf7-d5ae7918eba3")
+		(property "Sheetname" "Power"
+			(at 13.97 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 13.97 34.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BusinessCard"
+				(path "/c52e2ab9-f991-4723-84f3-4c3609519739"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 39.37)
+		(size 19.05 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "67b4c96e-20de-4b9c-aa3d-bdd95fbe2805")
+		(property "Sheetname" "SPI"
+			(at 13.97 38.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "spi.kicad_sch"
+			(at 13.97 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 13.97 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BusinessCard"
+				(path "/c52e2ab9-f991-4723-84f3-4c3609519739"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 15.24)
+		(size 19.05 8.89)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ade188c8-d4ad-412f-be09-98a226951bb3")
+		(property "Sheetname" "CPU"
+			(at 13.97 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cpu.kicad_sch"
+			(at 13.97 24.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BusinessCard"
+				(path "/c52e2ab9-f991-4723-84f3-4c3609519739"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
