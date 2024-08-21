@@ -1077,7 +1077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WIN_SN-8_WIN"
+		(property "Footprint" "custom:WIN_SN-8_WIN"
 			(at 67.31 62.23 0)
 			(effects
 				(font
