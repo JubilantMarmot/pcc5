@@ -10,3 +10,8 @@ Around $5 or so per card? It is not too bad.
 ![](./image_720.png)
 
 To print, make sure that you select 2-layer PCB.
+
+## Schematic
+
+![](./Screenshot_20240817_150530-1.png)
+![](./Screenshot_20240822_221516.png)
